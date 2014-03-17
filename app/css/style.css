@@ -1,6 +1,6 @@
-body {
-  text-decoration:none;
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/adriancorsini\/Play\/Learn_grunt\/app\/css\/sass\/style\.scss}line{font-family:\000037}}
+#content {
+  background-color: #539dc2;
+  width: 75%;
+  margin: 0 auto;
 }
-
-p {
-  }
