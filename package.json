@@ -1,0 +1,16 @@
+{
+  "name": "Learn_grunt",
+  "version": "0.1.0",
+  "description": "Learning web development with grunt",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adrian Corsini",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-contrib-watch": "^0.6.0",
+    "grunt-contrib-jshint": "^0.9.2"
+  }
+}
